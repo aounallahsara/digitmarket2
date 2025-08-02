@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824570594153",
+    "project_id": "digitmarket-bb667",
+    "storage_bucket": "digitmarket-bb667.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824570594153:android:479566d95a8f8eac4173f8",
+        "android_client_info": {
+          "package_name": "com.example.digit_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2187pEl3HOUINTTIcHyUpRJ-WwvObevk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
